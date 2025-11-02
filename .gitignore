@@ -1,0 +1,71 @@
+# Python byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+
+# Pytest / caches
+.pytest_cache/
+.cache/
+htmlcov/
+
+# Type-checker caches
+.mypy_cache/
+.dmypy.json
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs and databases
+*.log
+logs/
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and secrets
+.env
+*.pem
+*.key
+*.crt
+
+# Captured images (photo data) - keep out of repo
+captured_images/
+
+# Misc
+*.service
+*.sh~
+
+# Tests caches
+tests/__pycache__/
+
+# Coverage
+.coverage
+coverage.xml
+
+# End of .gitignore
