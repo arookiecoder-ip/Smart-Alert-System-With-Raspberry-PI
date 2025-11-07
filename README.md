@@ -54,7 +54,7 @@ smart_alert_system/
 
 #### LED:
 - Long leg (+) → 220Ω Resistor → Pin 12 (GPIO 18)
-- Short leg (-) → Pin 6 (GND)
+- Short leg (-) → Pin 14 (GND)
 
 #### Camera:
 - Connect to Camera Serial Interface (CSI) port
